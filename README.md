@@ -45,6 +45,13 @@ This is a central hub for all my data science and machine learning projects, inc
   - Algorithm: Gradient Boosting
   - Predicting advertising effectiveness
   - Updated: Feb 19, 2026
+  
+#### XG BOOST
+ - **[XG_boost](https://github.com/MatheshM2007/XG_boost)**
+  - California House Price Predictor using XGBoost
+  - Advanced gradient boosting for regression prediction
+  - Updated: Feb 23, 2026
+
 
 #### Clustering Projects
 - **[Mall_customer_segmentation](https://github.com/MatheshM2007/Mall_customer_segmentation)**
@@ -95,7 +102,8 @@ This is a central hub for all my data science and machine learning projects, inc
   - Data visualization and insights
   - Built with Jupyter Notebook
   - Updated: Jan 29, 2026
-
+  - 
+  
 ### 💼 Professional Projects
 
 - **[consulting-services-chatbot](https://github.com/MatheshM2007/consulting-services-chatbot)**
