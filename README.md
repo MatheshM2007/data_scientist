@@ -20,7 +20,7 @@ This is a central hub for all my data science and machine learning projects, inc
 ### 🤖 Machine Learning Models
 
 #### Classification Projects
-- **[Telco_Customer_Churn_Predictor](https://github.com/MatheshM2007/Telco_Customer_Churn_Predictor)**
+- **[Telco_Customer_Churn_Predictor](https://github.com/MatheshM2007/Telecom-Customer-Churn-Prediction.git)**
   - Algorithms: AdaBoost, Gradient Boost, Random Forest
   - Predicting customer churn in telecom industry
   - Updated: Feb 20, 2026
